@@ -10,6 +10,8 @@ How can we visualize and better understand the overall toll of the COVID-19 pand
 Which data and metrics can we use to identiy trends and visualize the spread of the virus throughout US coutnies?
 
 ## Data Answer
+<img width="1140" alt="Screen Shot 2020-04-26 at 11 24 35 PM" src="https://user-images.githubusercontent.com/60996310/80331095-22eefd80-8815-11ea-8518-7e062c9a1e91.png">
+The heatmap reveals the major hotspots of spread with the most cases being in Washington (presumable the Seattle area) and the northern major cities like New York and Boston. 
 
 ## Business Answer
 How might our data visualizations help county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?
