@@ -10,7 +10,10 @@ How can we visualize and better understand the overall toll of the COVID-19 pand
 Which data and metrics can we use to identiy trends and visualize the spread of the virus throughout US coutnies?
 
 ## Data Answer
+<img width="1036" alt="Screen Shot 2020-04-25 at 2 13 15 PM" src="https://user-images.githubusercontent.com/60996310/80331247-86792b00-8815-11ea-80d9-4497096a17fd.png">
+The bubble map 
 <img width="1140" alt="Screen Shot 2020-04-26 at 11 24 35 PM" src="https://user-images.githubusercontent.com/60996310/80331095-22eefd80-8815-11ea-8518-7e062c9a1e91.png">
+
 The heatmap reveals the major hotspots of spread with the most cases being in Washington (presumable the Seattle area) and the northern major cities like New York and Boston. 
 
 ## Business Answer
