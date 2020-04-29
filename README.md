@@ -13,11 +13,13 @@ Which data and metrics can we use to identiy trends and visualize the spread of 
 <img width="1036" alt="Screen Shot 2020-04-25 at 2 13 15 PM" src="https://user-images.githubusercontent.com/60996310/80331247-86792b00-8815-11ea-80d9-4497096a17fd.png">
 
 <img width="1140" alt="Screen Shot 2020-04-26 at 11 24 35 PM" src="https://user-images.githubusercontent.com/60996310/80331095-22eefd80-8815-11ea-8518-7e062c9a1e91.png">
+
 http://file:///Users/vesnatran/Downloads/density_heatmap_covid19_april14-3.html
 
 The **scatterplot and heat map** reveal the major hotspots of spread with the most cases being in Washington (presumable the Seattle area) and the northern major cities like New York and Boston. The heatmap is a better indicator of level of severity in different states with its numerical scale. They can identify the similarities in these counties (i.e. policies implemented, social practices) that lead to such higher number of cases and use that information to implement preventative measures in non/less affected counties. Identifying these areas that are most affected also help leadership in other counties reach out and help in supplying those regions with workers and resources if there's strain.  
 
 <img width="971" alt="Screen Shot 2020-04-26 at 11 49 55 PM" src="https://user-images.githubusercontent.com/60996310/80332365-abbb6880-8818-11ea-9d4a-72d9dd31c57d.png">
+
 file:///Users/vesnatran/Downloads/covid19_cases_us_county.html
 
 The **animated choropleth map** illustrate the number of cumulative confirmed cases per 1000 over time. Standardizing the data helps measure the level of severity in each county on more a baseline as opposed to using raw data which is biased as it doesn't consider population size. Looking at the choropleth map, it's evident that the spread originated from major cities with major international airports in New York, Seattle, Texas, etc., and over time, it diffuses inwards until more rural areas are reporting cases. 
